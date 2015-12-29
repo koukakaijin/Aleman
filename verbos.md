@@ -1,8 +1,5 @@
 # Verbos conjugados 
 
-Estructura:  
-Nombre Plural (traducción)
-
 # Lesen (leer)
 ## Präsens (presente)
 

@@ -3,7 +3,7 @@
 Estructura:  
 Nombre Plural (traducción)
 
-# Alimentos / comida
+## Alimentos / comida
 
 Der Apfel (manzana)  
 Die Brot (pan)  
@@ -25,41 +25,41 @@ Das essen (la comida)
 Salzig (salado)  
 Süß (dulce)  
 
-# Bebidas
+## Bebidas
 
 Die Milch (leche)  
 Das Wasser (agua)  
 
-# Gente / familia
+## Gente / familia
 
 Der Mann :: Die Männer (hombre)  
 Die Frau :: Die Frauen (mujer)  
-Das Kind :: Die Kinder (niño sexo indefinido)
-Der Junge :: Die Jungen (niño)
-Die Mädchen (niña)
+Das Kind :: Die Kinder (niño sexo indefinido)  
+Der Junge :: Die Jungen (niño)  
+Die Mädchen (niña)  
 
-# Objetos
+## Objetos
 
 Das Buch (libro)  
 Die Zeitung (periodico)  
 Die speisekarte (carta de restaurante)  
 
-# Zonas geograficas
+## Zonas geograficas
 
 Hamburg (Hamburgo)  
 Spanien (España)  
 
-# Tiempo
+## Tiempo
 
 Bald (pronto)  
-Das Mittagessen (almuerzo/comida de mediodia)
+Das Mittagessen (almuerzo/comida de mediodia)  
 Das Abendessen (cena)  
 
-# Estados / Adjetivos
+## Estados / Adjetivos
 
 Hunger (hambre)  
 
-# Expresiones
+## Expresiones
 
 Hallo (hola)  
 Tschüss (adios)  
@@ -71,6 +71,6 @@ Bitte (por favor)
 Bis Bald (hasta pronto)  
 Auf Wiedersehen (hasta luego)  
 
-# Otros
+## Otros
 
 Die Steuer (impuesto)  
