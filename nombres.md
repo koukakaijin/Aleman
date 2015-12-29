@@ -13,22 +13,28 @@ Die Erdbeere (fresa)
 Der Reis (arroz)  
 Die Kartoffel (patata)  
 Das Gemüse (verdura)  
-Der Kaffee (cafe)  
-Der tee (té)  
 Die Orange (naranja)  
 Das Obst (fruta)  
 Die Schokolade (chocolate)  
 Die Suppe (sopa)  
 Das Ei (huevo)
 Die Nudeln (pasta)  
-Das essen (la comida)  
-Salzig (salado)  
-Süß (dulce)  
+Der Käse (queso)  
+Die Tomate (tomate)  
+Der Zucker (azucar)  
+Das Salz (sal)  
+Der Hähnchen (pollo)  
+Das Essen (la comida)  
 
 ## Bebidas
 
 Die Milch (leche)  
 Das Wasser (agua)  
+Der Kaffee (cafe)  
+Der tee (té)  
+Der Saft (zumo)  
+Der Apfelsaft (zumo de manzana)  
+Das Getränk (la bebida)  
 
 ## Gente / familia
 
@@ -42,7 +48,9 @@ Die Mädchen (niña)
 
 Das Buch (libro)  
 Die Zeitung (periodico)  
+Menü (menu)  
 Die speisekarte (carta de restaurante)  
+Das Rezept (receta)  
 
 ## Zonas geograficas
 
@@ -52,12 +60,18 @@ Spanien (España)
 ## Tiempo
 
 Bald (pronto)  
+Das Früshstück (desayuno)  
 Das Mittagessen (almuerzo/comida de mediodia)  
 Das Abendessen (cena)  
 
 ## Estados / Adjetivos
 
 Hunger (hambre)  
+Durst (sed)  
+Schmecken (sabor)  
+Gut (bueno)  
+Salzig (salado)  
+Süß (dulce)  
 
 ## Expresiones
 
