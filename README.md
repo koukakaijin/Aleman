@@ -1,2 +1,2 @@
 # Aleman
-Resumen de aprendizaje de aleman
+Resumen de mi aprendizaje de alemán
