@@ -17,13 +17,14 @@ Die Orange (naranja)
 Das Obst (fruta)  
 Die Schokolade (chocolate)  
 Die Suppe (sopa)  
-Das Ei (huevo)
+Das Ei (huevo)  
 Die Nudeln (pasta)  
 Der Käse (queso)  
 Die Tomate (tomate)  
 Der Zucker (azucar)  
 Das Salz (sal)  
 Der Hähnchen (pollo)  
+Die Zitrone (limón)  
 Das Essen (la comida)  
 
 ## Bebidas
@@ -34,6 +35,8 @@ Der Kaffee (cafe)
 Der tee (té)  
 Der Saft (zumo)  
 Der Apfelsaft (zumo de manzana)  
+Das Bier (cerveza)  
+Der Wein (vino)  
 Das Getränk (la bebida)  
 
 ## Gente / familia
@@ -43,6 +46,22 @@ Die Frau :: Die Frauen (mujer)
 Das Kind :: Die Kinder (niño sexo indefinido)  
 Der Junge :: Die Jungen (niño)  
 Die Mädchen (niña)  
+
+## Animales
+
+Die Katze (gato)  
+Der Vogel (pajaro)  
+Die Maus (ratón)  
+Das Pferd (caballo)  
+Der Hund (perro)  
+Der Bär (oso)  
+Die Ente (pato)  
+Die Kuh (vaca)  
+Die Biene (abeja)  
+Die Fliege (mosca)  
+Das Tier (animal)  
+Die Haustier (mascota/animal domestico)  
+Das Insekt (insecto)  
 
 ## Objetos
 
@@ -72,6 +91,8 @@ Schmecken (sabor)
 Gut (bueno)  
 Salzig (salado)  
 Süß (dulce)  
+Sauer (agrio)  
+Vegetarier (vegetariano)  
 
 ## Expresiones
 
